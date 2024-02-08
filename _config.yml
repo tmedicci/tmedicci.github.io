@@ -47,6 +47,9 @@ plugins:
 plugins:
   - jemoji
 
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-PXX1BWFZGG # out your google-analytics code
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
