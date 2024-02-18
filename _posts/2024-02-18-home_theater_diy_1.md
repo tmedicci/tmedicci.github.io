@@ -5,7 +5,7 @@ author: Tiago
 date:   2024-02-18 15:00:00 -0300
 categories: projetos
 tags: projetos audio som eletronica marcenaria
-background: '/img/posts/2024-02-18-home_theater_diy_1/a13498eb83510b890dfa4358dbea84e76c3214e9.jpg'
+background: '/img/posts/2024-02-18-home_theater_diy_1/projeto_sketchup.jpg'
 ---
 
 Home Theater DIY - A Saga das Caixas de Som
@@ -26,37 +26,37 @@ Para que esta empreitada não comece da forma que (normalmente) começam ~~e aca
 > Também precisaria de um par de caixas de som para meus amplificadores. E assim, falarei primeiramente sobre as caixas de som: após baixar tutoriais e artigos sobre o assunto, me dei conta que não era uma tarefa fácil construir boas caixas de som, tanto pela complexidade das variáveis como pela falta de bons componentes acessíveis no mercado nacional. Em minhas andanças pelo fórum, observei que o senhor Paulo Ramos, também frequentador do mesmo, estava vendendo um kit com seus próprios alto-falantes e estava aí uma boa oportunidade de falantes de qualidade para o projeto das caixas de som. Um pouco receoso, entrei em contato com o Paulo Ramos, proprietário da Akron, cujos produtos eram (e são) referência de qualidade no mercado nacional. O contato foi retornado o mais breve possível e combinei de retirar os alto-falantes na própria residência do Paulo Ramos, já que morávamos em cidades vizinhas. Tinha 16 anos na época. Aqui vai meu primeiro agradecimento a esta pessoa que muito me ajudou no projeto das caixas de som: o Paulo Ramos me recebeu e a meu pai muito bem, nos convidou para uma breve audição de suas caixas Spalla em sua sala e, por e-mail, foram inúmeras as dúvidas que o mesmo me respondeu sempre com paciência e simpatia. Devo grande parte do meu interesse por acústica, alto-falantes e caixas de som a esta pessoa que me auxiliou com os mínimos detalhes de construção do par de bookshelfs.
 >
 > A visão geral do projeto da Bookshelf:
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/projeto_sketchup.jpg alt="Projeto do SketchUp" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/projeto_sketchup.jpg alt="Projeto do SketchUp" %}{: .img-fluid}
 >
 >A caixa é do tipo bass reflex com o duto atrás da caixa. No baffle, há uma diferença de 6 graus em relação ao plano vertical de modo a compensar a diferença de fase temporal entre o tweeter e o midbass. Foi usado internamente, no baffle e na traseira, compensado de certa qualidade (sem espaços ocos ou imperfeições), o resto do material é MDF, fora o duto, feito com cano de PVC e moldado nas extremidades para melhorar a dinâmica do ar. O rebaixo dos alto falantes foi feito com o uso de uma peça de MDF de 6mm por cima do baffle, onde o alto-falante atravessa a peça de 6mm e encaixa na peça inferior.
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01929.jpg alt="Baffle" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01929.jpg alt="Baffle" %}{: .img-fluid}
 >
 >
 > A fota acima é do baffle, em detalhes. Algo a ser comentado nesta parte é que, caso não tenham uma tupia a disposição, ao fazer o corte com uma serra tico-tico, certificar-se de deixar bastante espaço de folga para poder lixar depois e deixar a circunferência correta. Tive que consertá-la com massa plástica, uma vez que o furo foi mal feito por um marceneiro.
 >
 >
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/PB220026.jpg alt="Problemas na Marcenaria" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/PB220026.jpg alt="Problemas na Marcenaria" %}{: .img-fluid}
 >
 >
 > Como todo iniciante em marcenaria, tive diversos problemas na construção da estrutura de madeira, principalmente no que tange ao acabamento. Felizmente, a massa plástica ajudou-me a corrigir erros e homogeneizar a superfície da caixa. Uma dica que convém mencionar aqui consiste em não usar, na mesma peça, massa plástica e massa branca. A massa branca é um pouco melhor de ser usada para corrigir pequenos erros, enquanto a massa plástica serve para erros mais grotescos.
 >
 >
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01928.jpg alt="Traseira da Caixa" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01928.jpg alt="Traseira da Caixa" %}{: .img-fluid}
 >
 >
 > A imagem acima mostra em detalhe a parte traseira da caixa, a saída do duto (feito com cano de PVC e moldado em garrafa de vidro, nas extremidades), bem como o local de encaixe dos bornes da caixa. Vale mencionar aqui que utilizei como encaixe dos bornes uma peça de acrílico, material barato e que serviu bem à função.
 > Ainda de acrílico, fiz o suporte para o divisor de frequências utilizado:
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/PB220002.jpg alt="Construção do Filtro" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/PB220002.jpg alt="Construção do Filtro" %}{: .img-fluid}
 >
 >
 > O filtro é do tipo LinkWitz-Riley, de 12 dB/8ª, com corte em 2.5 kHz. Os capacitores utilizados foram de 4uf, de polipropileno metalizado (MKP) da EPCOS, comprados na Casa dos Capacitores, na região da Sta. Efigênia em São Paulo e os indutores encomendados na transformadores Líder, também na região. Os resistores utilizados são cerâmicos e de carbono. Além do filtro, foi usada também uma rede zobel, em paralelo com o midbass para correção da curva de impedância do mesmo e, finalmente, um circuito L-pad para atenuação do tweeter ,uma vez que o tweeter possui maior sensibilidade que o midbass. Todo o circuito está montado na placa acima que foi fixada ao fundo da caixa, próximo aos bornes. Para a fiação interna foi utilizado o Power Cable de 4mm, da Tiaflex. A caixa foi revestida internamente nas laterais com feltro betumado (aquele revestimento usado por baixo de carpetes) e também um pouco de algodão sintético atrás do midbass. As dicas para a construção do divisor de frequências e revestimento interno também são creditadas ao senhor Paulo Ramos. Novamente, muito obrigado.
 >
 > Os bornes de contato eu achei na Dual Comp, também na região da Sta. Efigênia. São bornes de metal e com um bom acabamento. O resultado final:
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC_0064.jpg alt="Detalhe dos Bores" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC_0064.jpg alt="Detalhe dos Bores" %}{: .img-fluid}
 >
 >
 >
@@ -71,13 +71,13 @@ Para que esta empreitada não comece da forma que (normalmente) começam ~~e aca
 > ## Amplificadores PL1050
 > Aos 15/16 anos, quando não se conhece nada de eletrônica e/ou montagens, tudo é novo e surpreendente. Começa-se então por procurar projetos conhecidos e simples para serem montados e testados. Foi neste momento que me deparei com o projeto do amplificador PL1050, que era vendido como um kit por uma loja em São Paulo. O projeto consiste em um amplificador que entrega 50W, em 8 Ohms, com alimentação assimétrica de 36V. Trocando-se o par de transistores de saída, TIP120/125 pelo TIP122/127, os diodos do circuito por diodos BA315 e aumentando-se a tensão de alimentação para 40V, consegue-se maior potência de saída e melhor resposta do circuito. A topologia do circuito é esta:
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/circuito_eletrico.jpg alt="Amplificador PL1050: circuito" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/circuito_eletrico.jpg alt="Amplificador PL1050: circuito" %}{: .img-fluid}
 >
 >
 > Parece muito simples de ser montado e realmente o é. Quem quiser maiores detalhes, só pedir que eu mando o PDF com o layout das placas e demais detalhes. Em todo caso, é só procurar na internet por PL1050, não será difícil encontrar este material. Fiz as placas pelo método térmico, ou seja, imprime-se, em uma impressora a laser, o layout invertido em uma transparência e então passa-se este layout para a placa com o ferro de passar roupas. Bem simples.
 >
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01905.jpg alt="Amplificador PL1050: placas" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01905.jpg alt="Amplificador PL1050: placas" %}{: .img-fluid}
 >
 >
 >
@@ -86,7 +86,7 @@ Para que esta empreitada não comece da forma que (normalmente) começam ~~e aca
 >
 > E, para melhorar a performance do amplificador, com a ajuda de meu primo (aquele que sabia um pouco de eletrônica), adaptamos uma fonte de PX para dar os 40V que precisávamos. O circuito escolhido tinha baixíssimo ruído, proteção contra curto-circuito e ótima estabilidade. Mantém a tensão de saída praticamente constante após a estabilização térmica dos componentes. (a quem interessar, também posso falar mais sobre o circuito da fonte regulada). Ainda integramos um circuito de proteção contra sobre tensão, acionado por um relé que “desliga” (desarma) a fonte.
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01922.jpg alt="Amplificador PL1050: placa da fonte" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC01922.jpg alt="Amplificador PL1050: placa da fonte" %}{: .img-fluid}
 >
 > Como pode se perceber, foram usados capacitores que juntos somavam quase 20000uF, tudo isso para garantir potência aos graves.
 >
@@ -96,7 +96,7 @@ Para que esta empreitada não comece da forma que (normalmente) começam ~~e aca
 >
 > Foto do gabinete dos amplificadores (quase) pronto:
 >
-> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC_0048.jpg alt="Amplificador PL1050: amplificadores" %}
+> {% cloudinary /img/posts/2024-02-18-home_theater_diy_1/DSC_0048.jpg alt="Amplificador PL1050: amplificadores" %}{: .img-fluid}
 >
 >
 > Ainda vou trocar os knobs dos potenciômetros. Ambos os potenciômetros são duplos, o da esquerda controla o canal estéreo e o da direita, ainda não finalizado, controlará dois amplificadores com sinal mono, para um futuro projeto de subwoofer. A qualidade da foto não ficou muito boa, mas utilizei um acrílico branco na frente do gabinete, com furações onde coloquei leds atrás da placa de acrílico, obtendo-se este efeito. Na foto parece muito forte o brilho do led, mas não o é.
