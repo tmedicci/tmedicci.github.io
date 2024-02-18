@@ -37,6 +37,7 @@ gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-pdf-embed"
+  gem "jekyll-cloudinary"
 end
 
 gem "jemoji"
