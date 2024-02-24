@@ -11,6 +11,8 @@ background: '/img/posts/2024-02-18-home_theater_diy_1/projeto_sketchup.jpg'
 Home Theater DIY - A Saga das Caixas de Som
 ===========================================
 
+*The translated version of this article can be accessed [here]({% post_url 2024-02-24-home_theater_diy_1_en %}).*
+
 **Este post foi replicado de outra postagem que também originou-se de uma réplica. Explico: originalmente (como falo mais adiante), postei sobre as caixas de som no HTFORUM, que já não está mais acessível. Depois, relatei a saga do projeto do Home Theater DIY (que é o conteúdo deste post) na instância do Discourse do Laboratório Hacker de Campinas (LHC), que pode ser acessado [aqui](https://discourse.lhc.net.br/t/home-theater-diy-caixas-de-som-amplificadores-e-central-de-midia/238). Segue, então, o conteúdo replicado do Discourse :wink:**
 
 ## A Ideia do Post
