@@ -11,6 +11,8 @@ background: '/img/posts/2024-02-28-home_theater_diy_2/vista_geral.jpg'
 Home Theater DIY - A Saga das Caixas de Som
 ===========================================
 
+*The translated version of this article can be accessed [here]({% post_url 2024-02-28-home_theater_diy_2_en %}).*
+
 ## Subwoofer
 
 Seguindo as atualizações do post, mostro agora o subwoofer que construí para adicionar ao sistema. A adição de uma unidade de graves sempre é muito bem vinda para filmes.
@@ -37,3 +39,5 @@ Segue o breve post que eu fiz sobre o subwoofer no grupo CLUBE DIY ÁUDIO do fac
 Como falei neste post, nesta época eu já tinha outros dois componentes do sistema que em breve postarei aqui: as caixas laterais e central e também amplificadores Gainclones. Faltava ainda, no entanto, a central de mídia. Em breve posto sobre estes componentes :wink:
 
 Aguardem novidades!
+
+*A parte 1 desta série pode ser acessada [aqui]({% post_url 2024-02-18-home_theater_diy_1 %}).*

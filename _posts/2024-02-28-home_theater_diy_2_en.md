@@ -12,6 +12,8 @@ published: true
 Home Theater DIY - The Saga of the Loudspeakers
 ===============================================
 
+*Este artigo também foi publicado em português e pode ser acessado [aqui]({% post_url 2024-02-28-home_theater_diy_2 %}).*
+
 ## Subwoofer
 
 Continuing updating this series, I'll talk about the subwoofer that I built to enhance the system. The addition of a bass unit is always welcome, especially for movies.
@@ -38,3 +40,5 @@ Here it is the brief post I made about the subwoofer in the CLUBE DIY ÁUDIO gro
 As I've said in this post, I already had two other components of the system that I will soon post here: the side and central speakers and the Gainclone amplifiers. However, the media center was still missing. I will post about these components soon :wink:
 
 Stay tuned for news!
+
+*Part 1 of this series can be accessed [here]({% post_url 2024-02-24-home_theater_diy_1_en %}).*
