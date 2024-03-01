@@ -2,7 +2,7 @@
 layout: post
 title:  ":uk: Home Theater DIY (Loudspeakers, Amplifiers and HTPC) - Part 2"
 author: Tiago
-date:   2024-03-28 08:00:00 -0300
+date:   2024-03-01 08:00:00 -0300
 categories: projects
 tags: project audio sound electronics
 background: '/img/posts/2024-02-28-home_theater_diy_2/vista_geral.jpg'

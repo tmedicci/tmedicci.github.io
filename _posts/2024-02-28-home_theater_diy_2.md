@@ -2,7 +2,7 @@
 layout: post
 title:  ":portugal: Home Theater DIY (Caixas de Som, Amplificadores e Central de Mídia) - Parte 2"
 author: Tiago
-date:   2024-03-28 08:00:00 -0300
+date:   2024-03-01 08:00:00 -0300
 categories: projetos
 tags: projetos audio som eletronica marcenaria
 background: '/img/posts/2024-02-28-home_theater_diy_2/vista_geral.jpg'
